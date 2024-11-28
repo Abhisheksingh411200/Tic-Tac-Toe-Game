@@ -32,7 +32,7 @@ A simple, interactive Tic Tac Toe game built using **HTML**, **CSS**, and **Java
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Abhisheksingh411200/Tic-Tac-Toe-Game.git
    ```
 2. Navigate to the project folder:
    ```bash
